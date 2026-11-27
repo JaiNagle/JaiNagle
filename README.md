@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Jai Nagle
 
-Software engineer based in Ireland, finishing an **M.Sc. in Computer Science at Trinity College Dublin**. I like building backend systems that hold up in production, with a growing interest in applying machine learning to real problems. Open to new roles.
+Software engineer based in Ireland, who just finished an **M.Sc. in Computer Science at Trinity College Dublin**. I like building backend systems that hold up in production, with a growing interest in applying machine learning to real problems. Open to new roles.
 
 ## 💫 About Me
 
-- 🔭 **Working on:** my MSc dissertation on multi-scale self-supervised contrastive learning for few-shot image classification, and a refreshed [portfolio](https://github.com/JaiNagle/portfolio-new)
+- 🔭 **Working on:** looking for my next software engineering role, and preparing for it (interview prep, practice problems and hands-on projects)
 - 🌱 **Learning:** cloud computing, AI and DevOps, mostly by building projects
 - 💬 **Ask me about:** Python, machine vision, AWS and Linux infrastructure, distributed systems, ML
 - 📜 **Certified:** Red Hat Certified System Administrator (RHCSA)
